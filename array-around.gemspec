@@ -3,7 +3,7 @@
 require_relative "lib/array_around/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "array_around"
+  spec.name = "array-around"
   spec.version = ArrayAround::VERSION
   spec.authors = ["kinjouj"]
   spec.email = ["kinjouj@gmail.com"]
