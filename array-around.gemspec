@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative "lib/array_around/version"
+require_relative "lib/array-around/version"
 
 Gem::Specification.new do |spec|
   spec.name = "array-around"

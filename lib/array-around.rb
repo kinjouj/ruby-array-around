@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative "array_around/version"
+require_relative "array-around/version"
 
 module ArrayAround
   def self.around_by_index(arr, index)
